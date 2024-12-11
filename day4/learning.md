@@ -1,0 +1,1 @@
+This one was a good reminder that you can do some slow, methodical things very quickly with computers.  Writing the code to achieve what was requested wasn't hard, but it left me worried that it was going to run really slowly.  Turns out, computers go fast!

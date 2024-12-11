@@ -1,0 +1,1 @@
+This wasn't a 'hard' problem, just a tedious one.  Keeping track of all the index changes and sizes of files and such was the hardest part.

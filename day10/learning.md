@@ -1,0 +1,1 @@
+The biggest thing I learned was when to use append() and when to use extend() in an array.

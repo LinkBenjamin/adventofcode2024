@@ -1,0 +1,1 @@
+This was the first time I'd ever heard of itertools and daaaaaang that was cool.  I was wondering how I was going to make some kind of looping structure to create every permutation of my operators, and that was pretty awesome.

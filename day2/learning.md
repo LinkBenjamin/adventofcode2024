@@ -1,0 +1,1 @@
+A good refresher on reading text from a file.  .strip().split()!

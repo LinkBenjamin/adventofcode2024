@@ -1,0 +1,1 @@
+Today was the first day that a problem felt "big".  Lots of rules, lots of proposals to run through... processing them all quickly was really scary.  Will I miss anything?  Will I be able to finish it in time?  It's a great reminder of how powerful Python really is.

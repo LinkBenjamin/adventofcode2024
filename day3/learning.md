@@ -1,0 +1,1 @@
+This was easy with a regex that did most of the lifting.
